@@ -1,0 +1,12 @@
+﻿  MeshViewerWidget.cpp
+E:\dgp2021\dgp6\dgp6\SurfaceMeshProcessing\MeshViewer\MeshViewerWidget.cpp(7,1): warning C4005: “_USE_MATH_DEFINES”: 宏重定义
+E:\dgp2021\dgp6\dgp6\SurfaceMeshProcessing\MeshViewer\MeshViewerWidget.cpp(7,1): message : 之前在命令行上声明的“_USE_MATH_DEFINES”
+E:\dgp2021\dgp6\dgp6\SurfaceMeshProcessing\MeshViewer\MeshViewerWidget.cpp(2766,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\dgp2021\dgp6\dgp6\SurfaceMeshProcessing\MeshViewer\MeshViewerWidget.cpp(3509,42): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\dgp2021\dgp6\dgp6\SurfaceMeshProcessing\MeshViewer\MeshViewerWidget.cpp(3530,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\dgp2021\dgp6\dgp6\SurfaceMeshProcessing\MeshViewer\MeshViewerWidget.cpp(3855,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\dgp2021\dgp6\dgp6\SurfaceMeshProcessing\MeshViewer\MeshViewerWidget.cpp(3917,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\dgp2021\dgp6\dgp6\SurfaceMeshProcessing\MeshViewer\MeshViewerWidget.cpp(3943,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\dgp2021\dgp6\dgp6\SurfaceMeshProcessing\MeshViewer\MeshViewerWidget.cpp(4822,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\dgp2021\dgp6\dgp6\SurfaceMeshProcessing\MeshViewer\MeshViewerWidget.cpp(5287,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  SurfaceMeshProcessing.vcxproj -> E:\dgp2021\dgp6\dgp6\x64\Release\SurfaceMeshProcessing.exe
